@@ -5,10 +5,9 @@
    
   <a href="mailto:dnamrata.2016@gmail.com"><img src="https://img.shields.io/badge/Get%20in%20Touch-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
-<p align="left">
-I'm a Machine Learning Engineer with experience in transforming cutting-edge research in Generative AI, NLP, and Computer Vision into robust, scalable, and production-ready applications. 
-</p>
 
+
+<p> Machine Learning Engineer building AI solutions</p>
 ---
 
 ##  My Tech Stack
@@ -23,7 +22,7 @@ I'm a Machine Learning Engineer with experience in transforming cutting-edge res
 
 ---
 
-## Projects  
+## My Projects  
 
 <!-- 
     TIP: Replace the placeholder images with high-quality GIFs or screenshots of your work.
